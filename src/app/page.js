@@ -1,6 +1,6 @@
 import Navheader from "@/app/components/Navheader";
 import Camera from "@/app/components/Camera";
-import Footer from "./components/Footer";
+import Footer from "@/app/components/Footer";
 
 export default function Home() {
   return (
